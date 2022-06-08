@@ -1,6 +1,6 @@
 ## DESCRIPTION
 
-Solución al reto:
+Solución al reto: 
 
 Nombre: Jose Zerpa
 Usuario Platzi: Jose Zerpa
